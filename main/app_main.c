@@ -9,7 +9,6 @@
 #include "8bkc-ugui.h"
 #include "powerbtn_menu.h"
 #include "ugui.h"
-#include "ESP32_TwitterAPI.h"
 void app_main(void){
      nvs_flash_init();
     tcpip_adapter_init();
